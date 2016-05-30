@@ -1,6 +1,4 @@
-QT       += core gui sql
-QT       += network
-QT       += webkit
+QT       += core gui sql network widgets
 
 
 DESTDIR = ../OUT
